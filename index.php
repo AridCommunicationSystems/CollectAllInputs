@@ -9,7 +9,6 @@
 
 </head>
 <body>
-<html>
 	<div>
 		<div>
             		<label class="form-label">ID</label><input name="id" id="id" class="form-input" value = "1256" >
