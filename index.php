@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en" style="height: 100%;">
 <head>
-<title>Collate all data from input fields</title>
+<title>(V1)Collate all data from input fields</title>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
