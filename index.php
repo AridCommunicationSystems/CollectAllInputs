@@ -11,25 +11,25 @@
 <body>
 <html>
 	<div>
-		<div >
+		<div>
             		<label class="form-label">ID</label><input name="id" id="id" class="form-input" value = "1256" >
             	</div>
-            	<div >
+            	<div>
             		<label class="form-label">Name</label><input type="text" name="name" id="name" class="myData" value = "Your Name 1st" >
             	</div>      
-            	<div >
+            	<div>
             		<label class="form-label">Name2</label><input type="text" name="name2" id="name2" class="myData" value = "Your Name  2nd" >
             	</div>
-            	<div >
+            	<div>
             		<label class="form-label">Name3</label><input type="text" name="name3" id="name3" class="myData" value = "Your Name  3rd" >
             	</div>
-            	<div >
+            	<div>
             		<label class="form-label">Strapline</label><input type="text" name="strapline" id="strapline" class="myData" value = "Strapline here" >
             	</div>
-            	<div >
+            	<div>
             		<label class="form-label">Address</label><input type="text" name="add1" id="add1" class="myData" value = "Address - Street" >
             	</div>
-            	<div >
+            	<div>
             		<label class="form-label">Town</label><input type="text" name="town" id="town" class="myData" value = "Address - Town" >            
             	</div>
             	<div >
@@ -38,10 +38,10 @@
             	<div >
             		<label class="form-label">Postcode</label><input type="text" name="postcode" id="postcode" class="myData" value = "Address - Postcode" >            
 		</div>
-            	<div >
+            	<div>
             		<label class="form-label">Telephone</label><input type="text" name="telephone" id="telephone" class="myData" value = "Your Telephone" >            
 		</div>
-            	<div >
+            	<div>
             		<label class="form-label">Email</label><input type="email" name="email" id="email" class="myData" value = "your@email.address" >            
 	    	</div>
 		<div>
