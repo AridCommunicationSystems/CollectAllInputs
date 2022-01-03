@@ -48,7 +48,7 @@
         	</div>
     	</div>
 
-	<div id="showData"></div>
+	<span id="showResults"></span>
 
 </body>
 </html>
@@ -59,7 +59,20 @@
 		myInputs.push( $(this).attr('name') );
  		myInputs.push( $(this).val() ); 
 	});
+	
+	
+	
 
 
-$('#showData').on('click',function(){$('#showData').text(myInputs);});
+$('#showData').on('click',function()
+{
+	var myResult = "";	
+	for (var i = 0, length = myInputs.length; i < length; i++) {
+    myResult += myInputs[i] + "<br/>" ;
+	}
+	
+	$('#showResults').html(myResult);
+	
+	
+});
 </script>
